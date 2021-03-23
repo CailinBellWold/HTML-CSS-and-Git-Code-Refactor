@@ -17,12 +17,17 @@ This exercise required researching accessibility standards (WCAG), understanding
 I learned a good amount about HTML page structure and CSS layout, commenting out CSS, and using GitHub.
 
 #
-## User Story
+## Core Objectives Met
 
 ```
-AS A marketing agency
-I WANT a codebase that follows accessibility standards
-SO THAT our own site is optimized for search engines
+1.) Source code updated with semantic HTML elements.
+    - <div> tags replaced with header, main, section, aside, and footer
+2.) HTML elements structured logically.
+3.) Image elements updated with accessible alt attributes.
+4.) Heading attributes follow sequential ordering
+5.) Title element updated with descriptive title.
+
+site is optimized for search engines
 ```
 
 ## Acceptance Criteria
@@ -47,7 +52,9 @@ The following image shows the web application's appearance and functionality:
 
 ![The Horiseon webpage including a navigation bar, header image, and cards with text and images at the bottom of the page.](assets\images\homework01_screenshot.png)
 
-## Deployed App
+## Deployed Application
+
+https://cailinbellwold.github.io/Homework01/
 
 ## Credits
 #

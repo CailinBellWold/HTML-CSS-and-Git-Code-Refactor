@@ -148,6 +148,9 @@ p {
     text-align: center;
 }
 
-.footer h2 {
-    font-size: 20px;
+/* Modifyed properties to mirror <h2> at <h3> level to maintain visual style 
+while introducing clarity in heirarchy */
+.footer h3 {
+    font-size: 20px; 
+    margin-top: 0.83em; 
 }
