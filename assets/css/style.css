@@ -78,6 +78,7 @@ p {
     margin-left: 20px;
 }
 
+/* NOTE: Background color doesn't meet accessibility standards. Discuss w/ branding+design team before changing. */
 .benefits {
     margin-right: 20px;
     padding: 20px;
