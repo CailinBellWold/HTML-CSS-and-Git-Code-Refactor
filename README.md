@@ -19,32 +19,15 @@ I learned a good amount about HTML page structure and CSS layout, commenting out
 #
 ## Core Objectives Met
 
-```
 1.) Source code updated with semantic HTML elements.
-    - <div> tags replaced with header, main, section, aside, and footer
+    div tags replaced with header, main, section, aside, and footer
 2.) HTML elements structured logically.
-3.) Image elements updated with accessible alt attributes.
-4.) Heading attributes follow sequential ordering
-5.) Title element updated with descriptive title.
+Image elements updated with accessible alt attributes.
+Heading attributes follow sequential ordering
+Title element updated with descriptive title.
 
 site is optimized for search engines
-```
 
-## Acceptance Criteria
-
-```
-GIVEN a webpage meets accessibility standards:
-
-1. WHEN I view the source code, THEN I find semantic HTML elements
-
-2. WHEN I view the structure of the HTML elements, THEN I find that the elements follow a logical structure independent of styling and positioning
-
-3. WHEN I view the image elements, THEN I find accessible alt attributes
-
-4. WHEN I view the heading attributes, THEN they fall in sequential order
-
-5. WHEN I view the title element, THEN I find a concise, descriptive title
-```
 #
 ## Screen Shot
 
