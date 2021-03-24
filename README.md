@@ -31,16 +31,13 @@ I learned a good amount about HTML page structure and CSS layout, commenting out
 5. Title element updated with descriptive title.
     -Title updated from "webpage" to more descriptive "Digital Marketing | Horiseon"
 
-
 ## Screen Shot
 
-The following image shows the web application's appearance and functionality:
+
 
 ![The Horiseon webpage including a navigation bar, header image, and cards with text and images at the bottom of the page.](./assets/images/homework01-screenshot.png) 
- 
 
 ## Deployed Application
 
 https://cailinbellwold.github.io/Homework01/
-
 #
