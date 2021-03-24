@@ -36,8 +36,8 @@ I learned a good amount about HTML page structure and CSS layout, commenting out
 
 The following image shows the web application's appearance and functionality:
 
-![The Horiseon webpage including a navigation bar, header image, and cards with text and images at the bottom of the page.](assets\images\homework01-screenshot.png)
-
+![The Horiseon webpage including a navigation bar, header image, and cards with text and images at the bottom of the page.](./assets/images/homework01-screenshot.png) 
+ 
 
 ## Deployed Application
 
