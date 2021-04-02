@@ -29,7 +29,7 @@ I learned a good amount about HTML page structure and CSS layout, commenting out
 4. Heading attributes follow sequential ordering.
     - Headings correspond to document structure related to importance of content, rather than size of text displayed.
 5. Title element updated with descriptive title.
-    -Title updated from "webpage" to more descriptive "Digital Marketing | Horiseon"
+    - Title updated from "webpage" to more descriptive "Digital Marketing | Horiseon"
 
 ## Screen Shot
 
